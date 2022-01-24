@@ -1,0 +1,27 @@
+.App {
+	background-color: black;
+}
+.container {
+	width: 100%;
+
+	background-color: white;
+}
+
+.section-Cards {
+	/* margin: 0; */
+	padding-left: 59px;
+	padding-right: 59px;
+	height: 559px;
+	display: flex;
+
+	flex-direction: row;
+	overflow-x: visible;
+}
+
+h2 {
+	font-size: 30px;
+	line-height: 45px;
+	font-weight: 700;
+	padding-left: 72px;
+	padding-bottom: 8px;
+}
